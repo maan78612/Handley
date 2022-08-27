@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323543333893",
+    "project_id": "rhinos-handley",
+    "storage_bucket": "rhinos-handley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323543333893:android:3b7df9ef1f7d972d58b06c",
+        "android_client_info": {
+          "package_name": "fr.rhinos.handley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323543333893-b6fngld5nst3tkup50jm3q9rk7tev09b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJ0ELl5cGJ30gvlE9dmopA6vGaioC5TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323543333893-b6fngld5nst3tkup50jm3q9rk7tev09b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
